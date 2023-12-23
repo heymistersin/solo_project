@@ -1,0 +1,10 @@
+# log files
+*.log
+
+# temporary files
+*.tmp
+
+# these are installed files from npms
+node_modules/
+
+backend/main.js
